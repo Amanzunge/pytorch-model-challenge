@@ -135,9 +135,7 @@ http://localhost:6006/
 ├── docker-compose.yml
 ├── requirements.txt
 ├── README.md
-├── INTUITION.md
-├── ModelArchitecture.png
-└── .gitignore
+└── INTUITION.md
 ```
 
 ---
