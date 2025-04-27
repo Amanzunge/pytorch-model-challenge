@@ -128,12 +128,12 @@ http://localhost:6006/
 ├── modeling/
 │   ├── models/
 │   │   └── model.py
-│   └── train_model.py
+│   ├── train_model.py
+│   └── train_config.json
 ├── Training.Dockerfile
 ├── Tensorboard.Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
-├── training_config.json
 ├── README.md
 ├── INTUITION.md
 ├── ModelArchitecture.png
