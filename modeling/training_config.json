@@ -1,0 +1,15 @@
+{
+    "src_seq_len": 200,
+    "tgt_seq_len": 300,
+    "id_category_size": 1000,
+    "epochs": 3,
+    "batch_size": 8,
+    "grad_accum": 8,
+    "model_checkpoint": null,
+    "model": {
+        "d_model":  64,
+        "num_heads":  8,
+        "encoder_layers": 3,
+        "decoder_layers":  5
+    }
+}
